@@ -1,0 +1,3 @@
+hello from userspace with a minimal custom libc!
+
+all interaction with tty0, fb0, and input devices is done via reading and writing to /dev via the VFS
